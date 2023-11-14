@@ -1,0 +1,14 @@
+C:\git\1WeekPR\1Week\1Week\bin\Debug\net6.0\1Week.exe
+C:\git\1WeekPR\1Week\1Week\bin\Debug\net6.0\1Week.deps.json
+C:\git\1WeekPR\1Week\1Week\bin\Debug\net6.0\1Week.runtimeconfig.json
+C:\git\1WeekPR\1Week\1Week\bin\Debug\net6.0\1Week.dll
+C:\git\1WeekPR\1Week\1Week\bin\Debug\net6.0\1Week.pdb
+C:\git\1WeekPR\1Week\1Week\obj\Debug\net6.0\1Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\1WeekPR\1Week\1Week\obj\Debug\net6.0\1Week.AssemblyInfoInputs.cache
+C:\git\1WeekPR\1Week\1Week\obj\Debug\net6.0\1Week.AssemblyInfo.cs
+C:\git\1WeekPR\1Week\1Week\obj\Debug\net6.0\1Week.csproj.CoreCompileInputs.cache
+C:\git\1WeekPR\1Week\1Week\obj\Debug\net6.0\1Week.dll
+C:\git\1WeekPR\1Week\1Week\obj\Debug\net6.0\refint\1Week.dll
+C:\git\1WeekPR\1Week\1Week\obj\Debug\net6.0\1Week.pdb
+C:\git\1WeekPR\1Week\1Week\obj\Debug\net6.0\1Week.genruntimeconfig.cache
+C:\git\1WeekPR\1Week\1Week\obj\Debug\net6.0\ref\1Week.dll
