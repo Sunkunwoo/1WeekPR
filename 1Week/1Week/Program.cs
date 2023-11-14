@@ -320,7 +320,7 @@
                         {
                             eq2 = 0;
                             echeck2 = false;
-                            user1.atk += 5;
+                            user1.atk -= 5;
                             break;
                         }
                     }
